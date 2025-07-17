@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Glad%20to%20meet%20you%20%F0%9F%A4%97)
 
 ## Hi there 👋
 
