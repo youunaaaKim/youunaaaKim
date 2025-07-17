@@ -34,7 +34,7 @@
   
   ### ETC
   <!--notion-->
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <br/>
