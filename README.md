@@ -9,8 +9,8 @@
   <!--Body-->
   
   ## 👀 Hi I'm Yuna Kim 
-  #### :raising_hand: I'm styding data analysis and Software enginering .<br/>
-  #### :fire: I aim to become a AI Engineer who can data analysis .<br/>
+  #### :raising_hand: 개발과 데이터분석을 공부하고 있습니다.  .<br/>
+  #### :fire: 데이터분석을 할 수 있는 개발자가 되는 것이 꿈입니다. .<br/>
  
   <br/>
   <br/>
@@ -40,9 +40,7 @@
   <br/>
   <br/>
 
-<br/>
-<br/>
-##### 🏢 Career
+  ## 🏢 Career
 
 | PERIOD | TITLE | SUBJECT |
 | ------- | ------- | ------- | 
