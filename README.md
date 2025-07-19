@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  
   <br/>
   
   ### Library
@@ -37,17 +38,20 @@
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ 
   <br/>
   <br/>
-
+  
   ## 🏢 Career
 
   | PERIOD | TITLE | POSITION | SUBJECT |
   | ------- | ------- | ------- | ------- |
   | **2025.03 -2025.05** | **ILLIO** | **프리렌서** | **DML을 활용한 팬심 M 활용 효과 분석과 유사도 분석을 통한 인사이트 도출** | 
   | **2022.12 -2025.02** | **한양대학교 지식서비스 연구소** | **연구원** | **4차산업혁명시대 선도 중소기업 컨설턴트 양성을 위한 IC-PBL 교육 방법론 연구** |
- <br/>
  
+  <br/>
+  <br/>
+  
   ## 📜 Paper
   | PERIOD | TITLE | STATUS |
   | ------- | ------- | ------- |
@@ -55,16 +59,20 @@
   | **2024.09 - 2025.05** | **인구감소 지역 경제 활성화를 위한 수요 중심의 맞춤형 관광 홍보 전략 제시 : 토픽모델링을 중심으로** | **경영정보학연구.  2025 8월 호 게재 확정** |
   | **2024.09 - 2025.06** | **모빌리티서비스 기능 확장에 대한 소비자가 인식하는 효용성 분석과 개선 우선순위 도출: IPA와 ANOVA를 중심으로** | **한양대학교 경상대학 통합학술대회 포스터 발표** |
   | **2024.09 - 2025.06** | **불균형 데이터를 고려한 플랫폼 비즈니스에서의 딥러닝 기반 고객 이탈 예측 방법론 연구** | **한국경영공학회지. 29(3), 73-86** |
- <br/>
-
+ 
+  <br/>
+  <br/>
+  
   ## 🏆 premier
   | PERIOD | TITLE | SUBJECT |
   | ------- | ------- | -------|
   | **2024.12** | **문화체육관광연구원 문화체육관광 데이터 활용대회** | **인구감소 지역 경제 활성화를 위한 수요 중심의 맞춤형 관광 홍보 전략** |
   | **2023.12** | **제19회 한국능률협회컨설팅 경영혁신 대학(원)생 공모전** | **고객 리뷰 데이터를 활용한 vegan 화장품 구매 결정 요인 분석** |
   | **2023.12** | **한양대학교 지식서비스연구소 2022 IC-PBL 경진대회** | **설문조사를 활용한 한양대학교 ERICA 경상대학 1층 UX 디자인** |
- <br/>
-
+ 
+  <br/>
+  <br/>
+  
   ## 🌱 Project  
 
   | PERIOD | TITLE | SUBJECT |
